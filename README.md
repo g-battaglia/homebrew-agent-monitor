@@ -1,7 +1,7 @@
 # Homebrew tap for agent-monitor
 
 Install [agent-monitor](https://github.com/g-battaglia/agent-monitor), an independent
-tmux monitor and session explorer for Pi, Claude Code, Codex, and OpenCode.
+tmux monitor and session explorer for Claude Code, Codex, OpenCode, and Pi.
 
 ## Install
 
